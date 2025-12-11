@@ -1,0 +1,17 @@
+{
+    "name": "my-mastra-app",
+    "version": "1.0.0",
+    "main": "src/mastra/index.ts",
+    "scripts": {
+      "start": "ts-node src/mastra/index.ts"
+    },
+    "dependencies": {
+      "@mastra/core": "^0.24.8",
+      "dotenv": "^16.0.0"
+    },
+    "devDependencies": {
+      "ts-node": "^10.9.1",
+      "typescript": "^5.0.4"
+    }
+  }
+  
